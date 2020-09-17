@@ -32,4 +32,4 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 
 **Link to project:** [livialima-net on GitHub](https://github.com/livialima/livialima-net)
 
-**Link to tweet:** [@livialimatweets Day 2](https://twitter.com/livialimatweets/status/1306399407269654528?s=20)
+**Link to tweet:** [@livialimatweets Day 3](https://twitter.com/livialimatweets/status/1306399407269654528?s=20)
