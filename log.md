@@ -22,3 +22,14 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link to project:** [desafios pythonicos](https://github.com/livialima/pacote-desafios-pythonicos)
 
 **Link to tweet:** [@livialimatweets Day 2](https://twitter.com/livialimatweets/status/1305958236668002306?s=20)
+
+---------------------------------------------
+### Day 3: September 16, Wednesday
+
+**Today's Progress**: Worked on my website [livialima.net](livialima.net) today. Some HTML/CSS house-cleaning.
+
+**Thoughts**: Today I had to shift my focus a little bit back to my website since other projects are still ongoing. Just a bit of house-cleaning the HTML and CSS code but nothing really new. Found out about [WakaTime](https://wakatime.com/) which is a [RescueTime](https://www.rescuetime.com/) on steroids. Needless to say that I started to use it immediately.
+
+**Link to project:** [livialima-net on GitHub](https://github.com/livialima/livialima-net)
+
+**Link to tweet:** [@livialimatweets Day 2](https://twitter.com/livialimatweets/status/1306399407269654528?s=20)
