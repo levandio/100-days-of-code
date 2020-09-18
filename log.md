@@ -33,3 +33,14 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link to project:** [livialima-net on GitHub](https://github.com/livialima/livialima-net)
 
 **Link to tweet:** [@livialimatweets Day 3](https://twitter.com/livialimatweets/status/1306399407269654528?s=20)
+
+---------------------------------------------
+### Day 4: September 17, Thursday
+
+**Today's Progress**: Very busy day, I barely had time to code. But I did, so... yay?
+
+**Thoughts**: Short and sweet session, worked a bit with file handling in Python.
+
+**Link to project:** [desafios pythonicos](https://github.com/livialima/pacote-desafios-pythonicos)
+
+**Link to tweet:** [@livialimatweets Day 4](https://twitter.com/livialimatweets/status/1306742422819483653?s=20)
