@@ -75,3 +75,14 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link to project:** [desafios pythonicos](https://github.com/livialima/pacote-desafios-pythonicos)
 
 **Link to tweet:** [@livialimatweets Day 7](https://twitter.com/livialimatweets/status/1307815859491139584?s=20)
+
+---------------------------------------------
+### Day 8: September 21, Monday
+
+**Today's Progress**: The progress I've made yesterday motivated me to practice the basics with more variety. I referred back to [CodeWars](https://www.codewars.com/) for Python specific challenges.
+
+**Thoughts**: The few hours of deep work yesterday were eye-opening and moved me towards different challenges to practice (and solidify) those newly learned topics. I was a casual user of CodeWars, [HackerRank](https://www.hackerrank.com/), [exercism](https://exercism.io/) and [Leet](https://leetcode.com/). Now I have a goal with those tools.
+
+**Link to (not a) project:** [my CodeWars profile](https://www.codewars.com/users/livialima)
+
+**Link to tweet:** [@livialimatweets Day 8](https://twitter.com/livialimatweets/status/1308206577619361794?s=20)
