@@ -161,3 +161,12 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link my retrospective:** [blog post at livialima.net](https://livialima.net/blog/2020-09-29-100code-01-15.html)
 
 **Link to tweet:** [@livialimatweets Day 15](https://twitter.com/livialimatweets/status/1310771725496389632?s=20)
+
+---------------------------------------------
+### Day 16: September 29, Tuesday
+
+**Today's Progress**: Coded earlier today and started to set language goals with Python to implement some structure in this challenge for me. My retrospective had to teach me something, right?
+
+**Link my retrospective:** [blog post at livialima.net](https://livialima.net/blog/2020-09-29-100code-01-15.html)
+
+**Link to tweet:** [@livialimatweets Day 16](https://twitter.com/livialimatweets/status/1311043779672059904?s=20)
