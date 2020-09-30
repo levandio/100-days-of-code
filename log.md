@@ -170,3 +170,14 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link my retrospective:** [blog post at livialima.net](https://livialima.net/blog/2020-09-29-100code-01-15.html)
 
 **Link to tweet:** [@livialimatweets Day 16](https://twitter.com/livialimatweets/status/1311043779672059904?s=20)
+
+---------------------------------------------
+### Day 17: September 30, Wednesday
+
+**Today's Progress**: Explored more of conditionals and operators in Python.
+
+**Thoughts**: Decided to use [exercism](https://exercism.io) and [HackerRank](https://www.hackerrank.com) as well, as they are a bit more structured than CodeWars for beginners.
+
+**Link to (not a) project:** [my exercism](https://exercism.io/profiles/livialima) and [my HackerRank](https://www.hackerrank.com/livia_n_lima) profiles
+
+**Link to tweet:** [@livialimatweets Day 17](https://twitter.com/livialimatweets/status/1311380205919965184?s=20)
