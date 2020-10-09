@@ -181,3 +181,19 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link to (not a) project:** [my exercism](https://exercism.io/profiles/livialima) and [my HackerRank](https://www.hackerrank.com/livia_n_lima) profiles
 
 **Link to tweet:** [@livialimatweets Day 17](https://twitter.com/livialimatweets/status/1311380205919965184?s=20)
+
+---------------------------------------------
+### Day 18: October 1, Thursday
+
+**Today's Progress**: Squeezed a few minutes of Python amidst many hours of blog updates (new video coming soon, by the way). Good day.
+
+**Link to tweet:** [@livialimatweets Day 18](https://twitter.com/livialimatweets/status/1311755219764731905?s=20)
+
+---------------------------------------------
+### Day 19: October 2, Friday - Day 25: October 8, Thursday
+
+**Week's Progress**: New video took longer than expected and I had A LOT of interruptions this week. Not even sure I could count any of that time as part of the challenge progress. Should I start over?
+
+![this is hard](https://media.giphy.com/media/eg9ZslZLzWx0LtoHrr/giphy.gif "I'm trying my best, guys!")
+
+**Link to tweet:** [@livialimatweets Days 19-25](https://twitter.com/livialimatweets/status/1314391808143699975?s=20)
