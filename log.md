@@ -190,10 +190,19 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 **Link to tweet:** [@livialimatweets Day 18](https://twitter.com/livialimatweets/status/1311755219764731905?s=20)
 
 ---------------------------------------------
-### Day 19: October 2, Friday - Day 25: October 8, Thursday
+### Day 19: October 2, Friday - October 8, Thursday (I guess...?)
 
 **Week's Progress**: New video took longer than expected and I had A LOT of interruptions this week. Not even sure I could count any of that time as part of the challenge progress. Should I start over?
 
 ![this is hard](https://media.giphy.com/media/eg9ZslZLzWx0LtoHrr/giphy.gif "I'm trying my best, guys!")
 
 **Link to tweet:** [@livialimatweets Days 19-25](https://twitter.com/livialimatweets/status/1314391808143699975?s=20)
+
+---------------------------------------------
+### Day 20: October 9, Friday (for reals this time)
+
+**Today's Progress**: [New video](https://livialima.net/howtos/howto-connect-2pcs-crossover-cable.html) is out, I did a bunch of MD/HTML/CSS tweaks on my website and started coding the automation for that build. Still wrapping my head around how to do it with Lambda.
+
+**Thoughts**: Obviously I'm taking way too much manual labor every time I want to post new content. I pull the breaks a little bit to automate that build & publish process; in addition to all the contect work, I was considering quitting the 100Days challenge. Thanks, [Joshua](https://twitter.com/buildinships) for keeping my spirits up!
+
+**Link to tweet:** [@livialimatweets Day 20](https://twitter.com/livialimatweets/status/1314731752137596928?s=20)
