@@ -194,7 +194,7 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 
 **Week's Progress**: New video took longer than expected and I had A LOT of interruptions this week. Not even sure I could count any of that time as part of the challenge progress. Should I start over?
 
-![this is hard](https://media.giphy.com/media/eg9ZslZLzWx0LtoHrr/giphy.gif "I'm trying my best, guys!")
+![this is hard](https://media.giphy.com/media/TU76e2JHkPchG/giphy.gif "I'm trying my best, guys!")
 
 **Link to tweet:** [@livialimatweets Days 19-25](https://twitter.com/livialimatweets/status/1314391808143699975?s=20)
 
@@ -203,6 +203,119 @@ The log of my #100DaysOfCode challenge. Started on **September 14th, 2020**.
 
 **Today's Progress**: [New video](https://livialima.net/howtos/howto-connect-2pcs-crossover-cable.html) is out, I did a bunch of MD/HTML/CSS tweaks on my website and started coding the automation for that build. Still wrapping my head around how to do it with Lambda.
 
-**Thoughts**: Obviously I'm taking way too much manual labor every time I want to post new content. I pull the breaks a little bit to automate that build & publish process; in addition to all the contect work, I was considering quitting the 100Days challenge. Thanks, [Joshua](https://twitter.com/buildinships) for keeping my spirits up!
+**Thoughts**: Obviously I'm taking way too much manual labor every time I want to post new content. I'm pulling on the breaks a little bit to automate that build & publish process; in addition to all the content work, I was considering quitting the 100Days challenge. Thanks to the #100DaysOfCode community for keeping my spirits up!
 
 **Link to tweet:** [@livialimatweets Day 20](https://twitter.com/livialimatweets/status/1314731752137596928?s=20)
+
+---------------------------------------------
+### Day 21: October 10, Saturday
+
+**Today's Progress**: Yay! Today I did my first [AWS Lambda](https://aws.amazon.com/lambda/) function to update a [DynamoDB](https://aws.amazon.com/dynamodb/) table! It's not working as expected (yet) but I'm getting close.
+
+**Link to project:** [visitorCounter](https://github.com/livialima/visitorCounter)
+
+**Link to tweet:** [@livialimatweets Day 21](https://twitter.com/livialimatweets/status/1315118403930206208?s=20)
+
+---------------------------------------------
+### Day 22: October 11, Sunday
+
+**Today's Progress**: More experiments with AWS, tested more Python code to basic-handle DynamoDB tables, outside of Lambda so I could really understand it. Got my ass kicked by JSON, obviously. Also looked at [API Gateway](https://aws.amazon.com/api-gateway/), but just looked.
+
+**Link to project:** [visitorCounter](https://github.com/livialima/visitorCounter)
+
+**Link to tweet:** [@livialimatweets Day 22](https://twitter.com/livialimatweets/status/1315468904790138881?s=20)
+
+---------------------------------------------
+### Day 23: October 12, Monday
+
+**Today's Progress**: Today I more than "looked" at API Gateway. This is starting to get very interesting!
+
+**Thoughts**: I got my ass kicked by the API calls and had to spend about 30 minutes doing tests with [Postman](https://www.postman.com/) to figure out what was the best for my project.
+
+**Link to project:** [visitorCounter](https://github.com/livialima/visitorCounter)
+
+**Link to tweet:** [@livialimatweets Day 23](https://twitter.com/livialimatweets/status/1315813121534185474?s=20)
+
+---------------------------------------------
+### Day 24: October 13, Tuesday
+
+**Today's Progress**: Too much going on today. No actual coding, but learned a lot about coding. Nice!
+
+**Thoughts**: Today I was attending the [AnsibleFest](https://onlinexperiences.com/scripts/Server.nxp) so I got little time for coding. Ansible is in my wishlist of things to learn in my journey of network automation.
+
+**Link to tweet:** [@livialimatweets Day 24](https://twitter.com/livialimatweets/status/1316169521531686913?s=20)
+
+---------------------------------------------
+### Day 25: October 14, Wednesday
+
+**Today's Progress**: I wrote Python code in a Lambda function and used the [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) library to handle a DynamoDB table. Then I created an API with AWS’s API Gateway to accept requests from the web to update that table. It was now JavaScript's turn to kick my ass.
+
+**Link to project:** [visitorCounter](https://github.com/livialima/visitorCounter)
+
+**Link to tweet:** [@livialimatweets Day 25](https://twitter.com/livialimatweets/status/1316487522738896899?s=20)
+
+---------------------------------------------
+### Day 26: October 15, Thursday
+
+**Today's Progress**: That little piece of JavaScript (the only JS needed for this project) is continuously kicking me in the face. Undefined data is the best I got so far. I found out API Gateway can generate a JS SDK but I have no idea how to use it yet. Help.
+![](https://media.giphy.com/media/l46Cbqvg6gxGvh2PS/giphy.gif)
+
+**Link to project:** [visitorCounter](https://github.com/livialima/visitorCounter)
+
+**Link to tweet:** [@livialimatweets Day 26](https://twitter.com/livialimatweets/status/1316894535709052935?s=20)
+
+---------------------------------------------
+### Day 27: October 16, Friday
+
+**Today's Progress**: It turns out I didn't have to use the JS SDK, just integrate the API with the Lambda function with a proper proxy. I could finally fetch the data the way I wanted and the JavaScript code is working! YAY!
+
+**Thoughts**: It took me 3 days to understand the problem was not the JavaScript call to the API. It was the response I had setup when I created the API. Which means this piece of code is perfectly fine:
+```
+function incrementCount() {
+	var d1 = document.getElementById('visits');
+	const visits = fetch('https://api.livialima.net/')
+		.then(res => res.json())
+		.then(data => d1.insertAdjacentText('beforeend', data))
+		.catch(error => console.log(error))
+}
+```
+
+**Link to project:** [visitorCounter](https://github.com/livialima/visitorCounter)
+
+**Link to tweet:** [@livialimatweets Day 27](https://twitter.com/livialimatweets/status/1317125178367815681?s=20)
+
+---------------------------------------------
+### Day 28: October 17, Saturday
+
+**Today's Progress**: I spent a lot of the last few days on AWS Console. I was wondering if I could do it in AWS CLI. Better, is there a way to automate this process? Today was a study day, learning more about AWS services.
+
+**Link to tweet:** [@livialimatweets Day 28](https://twitter.com/livialimatweets/status/1317625638455566336?s=20)
+
+---------------------------------------------
+### Day 29: October 18, Sunday
+
+**Today's Progress**: Learning about AWS SAM. I'm still pretty clueless. YAML seems a little more friendly, though.
+
+**Thoughts**: Learning means I had to install SAM CLI and dust off AWS CLI a bit. I took my time and looked at [CloudFormation](https://aws.amazon.com/cloudformation/) to understand how that works.
+
+**Link to tweet:** [@livialimatweets Day 29](https://twitter.com/livialimatweets/status/1317978078442762240?s=20)
+
+---------------------------------------------
+### Day 30: October 19, Monday
+
+**Today's Progress**: Still trying to finish the project with a bang of Infrastructure as Code (IaC). Tomorrow I will publish my second retrospective, reviewing days 16 to 30.
+
+**Thoughts**: Spend time toying with CloudFormation and writing some test stacks in YAML. I want to be familiar with it before diving into SAM templates.
+
+**Link to tweet:** [@livialimatweets Day 30](https://twitter.com/livialimatweets/status/1318354291141300225?s=20)
+
+---------------------------------------------
+### Day 31: October 20, Tuesday
+
+**Today's Progress**: The first part of the whole "automate the build & publish process" for my website was to finish the [Cloud Resume Challenge](https://cloudresumechallenge.dev) by [Forrest Brazeal](https://forrestbrazeal.com/) - which is almost complete. In this retrospective, I review what I learned since Day15 and what I'm planning for the next few days.
+
+**Link to project:** [Cloud Resume Challenge](https://livialima.net/challenges/cloud-resume.html)
+
+**Link my retrospective:** [blog post at livialima.net](https://livialima.net/blog/2020-10-20-100code-16-30.html)
+
+**Link to tweet:** [@livialimatweets Day 31](https://twitter.com/livialimatweets/status/1318669891919110154?s=20)
