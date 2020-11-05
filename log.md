@@ -319,3 +319,67 @@ function incrementCount() {
 **Link my retrospective:** [blog post at livialima.net](https://livialima.net/blog/2020-10-20-100code-16-30.html)
 
 **Link to tweet:** [@livialimatweets Day 31](https://twitter.com/livialimatweets/status/1318669891919110154?s=20)
+
+---------------------------------------------
+### Day 32: October 21, Wednesday
+
+**Today's Progress**: AWS SAM is pretty simple once you understand CloudFormation. I'm still grasping CloudFormation, so...
+
+**Link to tweet:** [@livialimatweets Day 32](https://twitter.com/livialimatweets/status/1319060568435789826?s=20)
+
+---------------------------------------------
+### Day 33: October 22, Thursday
+
+**Today's Progress**: Took the day off. No coding.
+
+**Link to tweet:** [@livialimatweets Day 33](https://twitter.com/livialimatweets/status/1319391862118141954?s=20)
+
+---------------------------------------------
+### Day 34: October 23, Friday
+
+**Today's Progress**: Another day off. [CrossFitGames](https://games.crossfit.com/) were back and it was INTENSE!
+
+**Link to tweet:** [@livialimatweets Day 34](https://twitter.com/livialimatweets/status/1319792872544194560?s=20)
+
+---------------------------------------------
+### Day 35: October 24, Saturday
+
+**Today's Progress**: So, I think I got my head around CloudFormation. [Stephane Maarek](https://github.com/simplesteph)'s master class on [Udemy](https://www.udemy.com/) was of HUGE help! Now back to AWS SAM.
+
+**Link to tweet:** [@livialimatweets Day 35](https://twitter.com/livialimatweets/status/1320182450253975553?s=20)
+
+---------------------------------------------
+### Day 36: October 25, Sunday
+
+**Today's Progress**: Today I was between "distractions". The final day of [CrossFitGames](https://games.crossfit.com/) and upgrading my [Fedora](https://fedoramagazine.org/announcing-fedora-33/) to the newest and shiny beta release, the Fedora 33.
+
+**Link to tweet:** [@livialimatweets Day 36](https://twitter.com/livialimatweets/status/1320519739144343555?s=20)
+
+---------------------------------------------
+### Day 37: October 26, Monday
+
+**Today's Progress**: So entertained by [Fedora 33](https://getfedora.org/)! Spent the day tweaking my dot files and trying new stuff at the command line.
+
+**Link to tweet:** [@livialimatweets Day 37](https://twitter.com/livialimatweets/status/1320900342649917440?s=20)
+
+---------------------------------------------
+### Day 38: October 27, Tuesday
+
+**Today's Progress**: Spent the last few days scripting and configuring my [Fedora 33](https://getfedora.org/). I wanted to test my Linux skills by doing some things from scratch. I regretted this decision a few times, but in the end, I am pleased with myself.
+
+**Link to tweet:** [@livialimatweets Day 38](https://twitter.com/livialimatweets/status/1321256044593557505?s=20)
+
+---------------------------------------------
+### Day 39: October 28, Wednesday
+
+**Today's Progress**: Created my first [Django](https://www.djangoproject.com/) project on
+[Heroku](https://heroku.com/) today. PS: I did not give up AWS Lambda, I'm just taking a little break.
+
+**Link to tweet:** [@livialimatweets Day 39](https://twitter.com/livialimatweets/status/1321612664964042753?s=20)
+
+---------------------------------------------
+### Day 40: October 29, Thursday
+
+**Today's Progress**: Today was a day to learn [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) and practice, practice, practice with some Python code.
+
+**Link to tweet:** [@livialimatweets Day 40](https://twitter.com/livialimatweets/status/1321882227693768704?s=20)
