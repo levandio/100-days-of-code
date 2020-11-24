@@ -383,3 +383,40 @@ function incrementCount() {
 **Today's Progress**: Today was a day to learn [Test-Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) and practice, practice, practice with some Python code.
 
 **Link to tweet:** [@livialimatweets Day 40](https://twitter.com/livialimatweets/status/1321882227693768704?s=20)
+
+---------------------------------------------
+### Day 41: October 30, Friday
+
+**Today's Progress**: Today I was pretty light on coding (just some shell scripting) because I'm brewing some juicy new content. This is going to be good, stay tuned! B)
+
+**Link to tweet:** [@livialimatweets Day 41](https://twitter.com/livialimatweets/status/1322338050400288771?s=20)
+
+---------------------------------------------
+### Day 42: November 6, Friday
+
+**Today's Progress**: After almost a week off, today I worked on shell scripting. But that break was for a good cause. Check my [Linux Upskill Challenge playlist](https://youtube.com/playlist?list=PL4mta2djduQQaLFxhnJP1qw9y4IsJW-jU)
+
+**Link to tweet:** [@livialimatweets Day 42](https://twitter.com/livialimatweets/status/1324796620299489281?s=20)
+
+---------------------------------------------
+### Day 43: November 14, Saturday
+
+**Today's Progress**: Another almost week off, the #LinuxUpskillChallenge videos are really taking some time to produce. But now that I reached the juicy stuff (Regex), progressing my shell scripting is just natural. Exciting!
+
+**Link to tweet:** [@livialimatweets Day 43](https://twitter.com/livialimatweets/status/1327794947903401989?s=20)
+
+---------------------------------------------
+### Day 44: November 15, Sunday
+
+**Today's Progress**: Almost finished with the Regex track on [HackerRank](https://www.hackerrank.com).
+
+**Link to tweet:** [@livialimatweets Day 44](https://twitter.com/livialimatweets/status/1328142646578122756?s=20)
+
+---------------------------------------------
+### Day 45: November 19, Thursday
+
+**Today's Progress**: Of course, the last few challenges on the Regex track on [HackerRank](https://www.hackerrank.com) are going to be the most difficult. But also the most fun!
+
+**Link my retrospective:** [blog post at livialima.net](https://livialima.net/blog/2020-11-24-100code-31-45.html)
+
+**Link to tweet:** [@livialimatweets Day 45](https://twitter.com/livialimatweets/status/1329438248494575616?s=20)
