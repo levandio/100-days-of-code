@@ -4,6 +4,7 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Old Logs - see my previous round](R1_log_1st-try.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
